@@ -6,4 +6,4 @@ rembg
 deepface
 numpy
 pillow
-onnxruntime==1.18.0
+onnxruntime==1.23.1
